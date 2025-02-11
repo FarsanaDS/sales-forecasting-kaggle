@@ -11,7 +11,7 @@ Sales forecasting is a critical problem in retail. This project uses historical 
 
 🔹 Dataset: Provided in the Kaggle competition.
 🔹 Goal: Predict the sales_hat (future sales) for given items.
-🔹 Challenge: Handling missing data, feature engineering, and improving accuracy.
+🔹 Challenge: Handling missing data, feature engineering and hyperparameter tuning to improving accuracy.
 
 ---
 
