@@ -85,6 +85,7 @@ Test: 0.9974
 ⿤ Train the model and generate predictions:
 
 ⿥ Save submission file:
+
 `submission.to_csv("submission.csv", index=False)`
 
 ---
