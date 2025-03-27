@@ -1,5 +1,5 @@
 # Kaggle competition
-📊 Sales Forecasting - Kaggle Competition
+## 📊 Sales Forecasting - Kaggle Competition
 
 🚀 Predicting future sales using advanced machine learning techniques! This project was built for a Kaggle competition, applying XGBoost and LightGBM to forecast sales.
 
@@ -82,7 +82,8 @@ Test: 0.9974
 
 `jupyter notebook`
 
-⿤ Train the model and generate predictions.
+⿤ Train the model and generate predictions:
+
 ⿥ Save submission file:
 `submission.to_csv("submission.csv", index=False)`
 
