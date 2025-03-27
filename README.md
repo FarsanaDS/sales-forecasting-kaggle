@@ -58,13 +58,13 @@ gamma, reg_alpha, reg_lambda
 
 ---
 
-📈 Model Performance
+## 📈 Model Performance
 
 🏆 Final R² Score:
 Train: 0.9975
 Test: 0.9974
 
-📉 Competition Score: 77.97917
+## 📉 Competition Score: 77.97917
 
 ---
 
@@ -73,7 +73,6 @@ Test: 0.9974
 ⿡ Clone the repository:
 
 `git clone https://github.com/FarsanaDS/sales-forecasting-kaggle.git`
-cd sales-forecasting-kaggle
 
 ⿢ Install dependencies:
 
@@ -99,10 +98,10 @@ cd sales-forecasting-kaggle
 
 ## 📝 Author
 
-👩‍💻 Farsana
-💼 Aspiring Data Scientist
-📌 From Malappuram, Kerala
-🔗 www.linkedin.com/in/farsana-thasnem-pa-03553631a | https://github.com/FarsanaDS
+- 👩‍💻 Farsana
+- 💼 Aspiring Data Scientist
+- 📌 From Malappuram, Kerala
+- 🔗 www.linkedin.com/in/farsana-thasnem-pa-03553631a | https://github.com/FarsanaDS
 
 ---
 
