@@ -103,7 +103,7 @@ Test: 0.9974
 - 👩‍💻 Farsana
 - 💼 Aspiring Data Scientist
 - 📌 From Malappuram, Kerala
-- 🔗 www.linkedin.com/in/farsana-thasnem-pa-03553631a | https://github.com/FarsanaDS
+- 🔗 www.linkedin.com/in/farsana-thasnem-pa | https://github.com/FarsanaDS
 
 ---
 
