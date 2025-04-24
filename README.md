@@ -1,11 +1,11 @@
 # Kaggle competition
-## 📊 Sales Forecasting - Kaggle Competition
+##  Sales Forecasting - Kaggle Competition
 
-🚀 Predicting future sales using advanced machine learning techniques! This project was built for a Kaggle competition, applying XGBoost and LightGBM to forecast sales.
+ Predicting future sales using advanced machine learning techniques! This project was built for a Kaggle competition, applying XGBoost and LightGBM to forecast sales.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Sales forecasting is a critical problem in retail. This project uses historical sales data along with feature engineering and machine learning models to predict future sales.
 
@@ -15,7 +15,7 @@ Sales forecasting is a critical problem in retail. This project uses historical 
 
 ---
 
-## 📂 Dataset Details
+##  Dataset Details
 
 The dataset includes sales transactions with columns like:
 - id: Unique identifier for the item and date.
@@ -30,7 +30,7 @@ The dataset includes sales transactions with columns like:
 
 ---
 
-## 🛠 Techniques Used
+##  Techniques Used
 
 ⿡ Feature Engineering
 
@@ -58,17 +58,17 @@ gamma, reg_alpha, reg_lambda
 
 ---
 
-## 📈 Model Performance
+##  Model Performance
 
-🏆 Final R² Score:
+ Final R² Score:
 Train: 0.9975
 Test: 0.9974
 
-## 📉 Competition Score: 77.97917
+##  Competition Score: 77.97917
 
 ---
 
-## 📌 How to Run the Code
+##  How to Run the Code
 
 ⿡ Clone the repository:
 
@@ -90,7 +90,7 @@ Test: 0.9974
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Try LSTMs or Transformers for time-series forecasting.
 - Use external data sources like economic indicators.
@@ -98,18 +98,18 @@ Test: 0.9974
 
 ---
 
-## 📝 Author
+##  Author
 
-- 👩‍💻 Farsana
-- 💼 Aspiring Data Scientist
-- 📌 From Malappuram, Kerala
-- 🔗 www.linkedin.com/in/farsana-thasnem-pa | https://github.com/FarsanaDS
+-  Farsana
+-  Aspiring Data Scientist
+-  From Malappuram, Kerala
+-  www.linkedin.com/in/farsana-thasnem-pa | https://github.com/FarsanaDS
 
 ---
 
-## ⭐ Contributions & Feedback
+##  Contributions & Feedback
 
-Feel free to fork the repo, raise issues, or suggest improvements! 🚀🔥
+Feel free to fork the repo, raise issues, or suggest improvements! 
 
 ---
 
